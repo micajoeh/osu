@@ -1,10 +1,11 @@
-# osu! [![Build status](https://ci.appveyor.com/api/projects/status/u2p01nx7l6og8buh?svg=true)](https://ci.appveyor.com/project/peppy/osu)
+# osu!-mac
 
-
+An unnofficial fork of osu!'s main branch with the intention to successfully port to macOS, straying far, far away, from Wine Containers. Don't expect much as of now.
 
 [osu! on the web](https://osu.ppy.sh) | [dev chat](https://discord.gg/ppy)
 
 Rhythm is just a *click* away. The future of osu! and the beginning of an open era!
+
 
 # Requirements
 
